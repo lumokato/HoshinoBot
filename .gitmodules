@@ -1,0 +1,3 @@
+[submodule "hoshino/modules/pcrjjc2"]
+	path = hoshino/modules/pcrjjc2
+	url = git@github.com:lumokato/pcrjjc2.git
